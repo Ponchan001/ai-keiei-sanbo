@@ -1,0 +1,17 @@
+# 機密情報
+.env
+.env.*
+
+# OS / エディタ
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+
+# 依存関係・ビルド成果物
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+dist/
+build/
